@@ -5,7 +5,9 @@ Dependencies will be handled through Python's virtualenv.
 ```
 virtualenv dependencies
 ```
-Activate the virtual environment
+When using dependencies from IPYNB notebooks in VSCode, click Ctr P, the select Python interpreter as dependencies
+
+Activate the virtual environment from the Terminal
 ```
 ./dependencies/Scripts/activate
 ```
