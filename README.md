@@ -1,5 +1,8 @@
 # CSC3009-Brain-Tumor-Detection
 
+## Setting up Output File for Preprocessing
+When running file Data_Preprocessing.ipynb, take note to create a folder named prepared_data to avoid running into missing folder errors. 
+
 ## Setting up Python Virtual Environment
 Dependencies will be handled through Python's virtualenv. 
 ```

@@ -1,2 +1,4 @@
 dependencies
-prepared_data
+.venv
+prepared_data/*
+model_checkpoints/*
