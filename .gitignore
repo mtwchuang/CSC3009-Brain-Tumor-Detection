@@ -1,4 +1,7 @@
 dependencies
 .venv
+
 prepared_data/*
 model_checkpoints/*
+kt_tuner_vgg/*
+
