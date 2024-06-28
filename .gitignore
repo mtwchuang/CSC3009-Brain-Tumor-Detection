@@ -1,2 +1,9 @@
 dependencies
 .conda
+.venv
+
+prepared_data/*
+model_checkpoints/*
+kt_tuner_vgg/*
+
+CSC3009_Lab06_2717925.ipynb
