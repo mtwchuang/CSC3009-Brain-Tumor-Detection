@@ -1,7 +1,9 @@
 # CSC3009-Brain-Tumor-Detection
 
-## Setting up Output File for Preprocessing
-When running file Data_Preprocessing.ipynb, take note to create a folder named prepared_data to avoid running into missing folder errors. 
+## Setting up Project
+- Prior to running data_prepreprocessing.ipynb, create folder "prepared_data". Augmented data will be stored and automatically ignored there. 
+- For model checkpoints, store them within folder model_checkpoints. Model checkpoints will be stored and automatically ignored there. 
+- For model tuning, stored them within folder "kt_tuning". Tuning files will be stored and automatically ignored there. 
 
 ## Setting up Python Virtual Environment
 Dependencies will be handled through Python's virtualenv. 

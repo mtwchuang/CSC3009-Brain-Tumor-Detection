@@ -2,8 +2,7 @@ dependencies
 .conda
 .venv
 
+# All the generated models, tuning files, augmented data
 prepared_data/*
 model_checkpoints/*
-kt_tuner_vgg/*
-
-CSC3009_Lab06_2717925.ipynb
+kt_tuning/*
