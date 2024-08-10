@@ -12,14 +12,19 @@ The dataset used consisted of 480 MRI images, 120 for each of the categorized fo
 
 ## CNN Architecture Explored
 - VGG16: A relatively simple and widely-used CNN known for its use of small 3x3 convolution filters. It achieved an accuracy of 96.1%.
+
 ![Figure 5: VGG16 Accuracy](info/VGG_accuracy.png)
 - InceptionV3: A more complex architecture that uses factorized convolutions to reduce computational cost while maintaining high accuracy. It achieved an accuracy of 95.3%.
+  
 ![Figure 6: InceptionV3 Accuracy](info/InceptionV3_accuracy.png)
 - ResNet50: A deep CNN that addresses the vanishing gradient problem using residual connections. It achieved an accuracy of 96.7%.
+  
 ![Figure 7: ResNet50 Accuracy](info/Resnet_accuracy.png)
 - EfficientNetB1: A CNN that uses compound scaling to balance depth, width, and resolution, achieving a high accuracy of 99.48%.
+  
 ![Figure 8: EfficientNetB1 Accuracy](info/EfficientNet_accuracy.png)
 - DenseNet121: A densely connected CNN that improves gradient flow and feature reuse, achieving an accuracy of 97.1%.
+  
 ![Figure 9: DenseNet121 Accuracy](info/DenseNet_accuracy.png)
 
 ## Key Findings
