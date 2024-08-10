@@ -4,7 +4,7 @@ dependencies
 
 prepared_data/*
 model_checkpoints/*
-kt_tuner_vgg/*
+kt_tuning/*
 
 CSC3009_Lab06_2717925.ipynb
 
